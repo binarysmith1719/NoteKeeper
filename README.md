@@ -1,4 +1,8 @@
 # NoteKeeper
+USES : 
+- MVVM Architecture
+- SQLite Database
+- List Adapter for better performance 
 
 SCREENSHOTS : 
 
