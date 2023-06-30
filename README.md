@@ -10,7 +10,6 @@ SCREENSHOTS :
 
 
 <img src=https://github.com/binarysmith1719/NoteKeeper/assets/97899226/0a6457b3-41e3-4841-94ba-a41a4bafd0a1 width="400">
-<div></div>
 <img src=https://github.com/binarysmith1719/NoteKeeper/assets/97899226/41032c14-3e92-43a1-a27d-f00d1286d5e6 width="400">
 <img src=https://github.com/binarysmith1719/NoteKeeper/assets/97899226/11d33874-a0dd-4a02-ac08-19936e66d8e8 width="400">
 <img src=https://github.com/binarysmith1719/NoteKeeper/assets/97899226/32f7e973-c2e5-4536-b0f2-7dcbd8a23de1 width="400">
